@@ -1,16 +1,108 @@
-# ddobak
+# 또박또박 (Ttodak Ttodak)
 
-A new Flutter project.
+> **AI 기반 발음 교정 서비스**  
+> 청각·언어 장애인을 위한 **LLM 기반 발음 분석 및 시각 피드백 솔루션**  
+> 단국대학교 SW 창업경진대회 출품작
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Mission & Vision
 
-A few resources to get you started if this is your first Flutter project:
+- **Mission**  
+  "AI를 활용하여 발음 교정을 일상 속으로"  
+  누구나 끊김 없이 발음 교정을 받을 수 있도록 **AI 기반 발음 분석 + 시각 피드백** 제공
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Vision**  
+  존중받으며 자신의 목소리로 소통할 수 있는 사회 구현  
+  언어 치료 접근성과 질적 격차 최소화
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏷️ Problem Statement
+
+1. **높은 비용** – 회당 40분 약 8만 원, 장기 치료 시 부담  
+2. **접근성 한계** – 인력 부족, 긴 대기, 지역 격차  
+3. **가정 훈련 비효율성** – 정량적 피드백 부재, 자기주도 학습 어려움  
+4. **기존 앱의 한계** – 입모양 확인만 가능, 개인 맞춤 피드백 부족, 서비스 지속성 미흡
+
+---
+
+## 💡 Our Solution
+
+- **AI 기반 발음·억양·입모양 교정**  
+  - STT + 딥러닝으로 발음 오류 자동 감지  
+  - 머신러닝 기반 입모양 분석 및 교정 피드백
+- **LLM 기반 종합 평가**  
+  - 점수화 및 텍스트 피드백 보고서 제공  
+  - 언어치료 전문 서적·연구 기반 신뢰성 강화
+- **맞춤형 학습 관리**  
+  - 학습 성취율 추적, To-Do 학습 관리  
+  - 개인 취약점에 맞춘 AI 학습 플랜
+
+---
+
+## 📱 Core Features
+
+- 발음 오류 감지 & 실시간 시각 피드백
+- 맞춤형 학습 관리 시스템 (코스별 진행률, 캘린더 연동)
+- LLM 기반 종합 리포트 생성
+- Freemium → Premium 유료화 전략
+
+---
+
+## 💰 Business & Revenue Model
+
+- **Freemium 전략**  
+  - 기본 기능 무료 제공  
+  - 고급 피드백/리포트 유료화
+
+- **B2C (개인 사용자)**  
+  - 월 9,900원 구독제
+
+- **B2B (기관/학교/병원)**  
+  - 월 30~50만 원 라이선스  
+  - 다인 사용 및 관리 기능 제공
+
+---
+
+## 📈 Go-To-Market (GTM) 전략
+
+1. **초기 타겟**: 청각·언어 장애 아동/청소년 + 보호자, 특수학교·복지관·병원  
+2. **검증 확보**: 단국대학교 장애학생지원센터와 협력, 인터뷰 및 파일럿 테스트  
+3. **시장 확장**: B2C 개인 구독 → B2B 기관 계약 확장  
+4. **차별화 포인트**: 실시간 AI 피드백 + 치료사 검증, 데이터 기반 리포트 제공
+
+---
+
+## 👨‍👩‍👧 Team
+
+- **노경민** – Developer & Team Lead (아이디어 기획, 프로토타입 개발)  
+- **권나희** – Strategic R&D Lead (사용자 타겟 발굴, 인터뷰, AI 모델 개발)  
+- **최민지** – Web Designer (Figma 기반 UI/UX 디자인, 프론트엔드 개발)
+
+---
+
+## 🗓️ Roadmap
+
+- **0~12개월**: MVP 개발, 베타 런칭, 개인정보 동의 기반 무상 서비스 제공  
+- **1~2년차**: 유료 서비스 전환, 기관 구독 도입, 파트너십 확대  
+- **3년차 이후**: 글로벌 진출, 다양한 언어장애 영역 확장
+
+---
+
+## 🌍 ESG & Social Value
+
+- **Social**: 언어 치료 접근성이 낮은 지역·다문화 가정 대상 무상 지원  
+- **Governance**: 개인정보 보호 및 보안 인증 준수, 투명한 운영
+
+---
+
+## 📹 Prototype
+
+👉 시연 영상 및 리포트 제공 예정
+
+---
+
+## 📌 License
+
+본 프로젝트는 학술 및 창업경진대회 목적으로 개발되었습니다.
